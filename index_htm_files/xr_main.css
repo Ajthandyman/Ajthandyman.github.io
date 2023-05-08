@@ -15,3 +15,6 @@ sub {font-size:0.7em;}
 .xr_ae {position: relative; border:none;}
 .xr_tb {position: absolute; unicode-bidi:bidi-override;}
 .xr_tu {unicode-bidi:bidi-override;margin-top:0px;margin-bottom:0px;}
+.xr_c_Theme_Color_1 {color:#F56262;}
+.xr_c_Theme_Color_2 {color:#F79A4E;}
+.xr_c_Light_Text {color:#FFFFFF;}
