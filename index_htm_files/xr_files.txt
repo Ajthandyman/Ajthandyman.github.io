@@ -4,8 +4,6 @@ recent.htm
 gallery1.htm
 gallery 2.htm
 extension.htm
-index_htm_files/343.jpg
-index_htm_files/346.jpg
 index_htm_files/500.jpg
 index_htm_files/501.jpg
 index_htm_files/502.jpg
@@ -22,10 +20,6 @@ index_htm_files/512.jpg
 index_htm_files/513.jpg
 index_htm_files/514.jpg
 index_htm_files/515.jpg
-index_htm_files/594.jpg
-index_htm_files/521.jpg
-index_htm_files/522.jpg
-index_htm_files/523.jpg
 index_htm_files/537.jpg
 index_htm_files/538.jpg
 index_htm_files/539.jpg
@@ -35,11 +29,6 @@ index_htm_files/542.jpg
 index_htm_files/543.jpg
 index_htm_files/544.jpg
 index_htm_files/545.jpg
-index_htm_files/547.jpg
-index_htm_files/548.jpg
-index_htm_files/550.jpg
-index_htm_files/551.jpg
-index_htm_files/552.jpg
 index_htm_files/671.png
 index_htm_files/672.png
 index_htm_files/673.png
