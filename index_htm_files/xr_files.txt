@@ -35,14 +35,6 @@ index_htm_files/667.jpg
 index_htm_files/668.jpg
 index_htm_files/669.jpg
 index_htm_files/670.jpg
-index_htm_files/690.png
-index_htm_files/691.png
-index_htm_files/692.png
-index_htm_files/693.png
-index_htm_files/694.png
-index_htm_files/695.png
-index_htm_files/696.png
-index_htm_files/697.png
 index_htm_files/698.png
 index_htm_files/699.png
 index_htm_files/700.png
@@ -57,3 +49,11 @@ index_htm_files/708.png
 index_htm_files/709.jpg
 index_htm_files/710.jpg
 index_htm_files/711.jpg
+index_htm_files/712.png
+index_htm_files/713.png
+index_htm_files/714.png
+index_htm_files/715.png
+index_htm_files/716.png
+index_htm_files/717.png
+index_htm_files/718.png
+index_htm_files/719.png
