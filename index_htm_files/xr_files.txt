@@ -65,3 +65,6 @@ index_htm_files/776.jpg
 index_htm_files/777.jpg
 index_htm_files/778.jpg
 index_htm_files/779.jpg
+index_htm_files/780.jpg
+index_htm_files/781.png
+index_htm_files/782.png
